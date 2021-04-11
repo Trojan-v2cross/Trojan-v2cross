@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hola, Welcome to [Trojan!](https://v2cross.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Trojan-v2cross&label=Views&color=blue&style=plastic" alt="Trojan-v2cross" /> </p>
 
@@ -31,18 +31,25 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>    
 
+
 <a href="https://github.com/Trojan-v2cross">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan-v2cross&theme=light&hide_langs_below=1" />
 </a>
+
+
 <a href="https://github.com/Trojan-v2cross">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trojan-v2cross&show_icons=true&theme=light&line_height=27" alt="Trojan-v2cross's github stats"/>
 </a>
+
+<br/>
+<br/>
+
 <a href="https://github.com/Trojan-v2cross/Trojan-android-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trojan-v2cross&repo=Trojan-android-client&theme=light" />
 </a>
 
 <div align="center">
-
+  
 ### Thank you for coming my github!
 
 </div>
